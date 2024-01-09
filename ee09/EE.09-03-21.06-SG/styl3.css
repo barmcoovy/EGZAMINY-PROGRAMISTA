@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana,sans-serif;
+    margin: 0;
+}
+.baner{
+    display: flex;
+}
+.baner-lewo{
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+}
+.baner-prawo{
+    background-color: #29434E;
+    color: white;
+    width: 30%;
+    height: 70px;
+}
+#lista-polecamy,#lista-fantastyczne{
+    background-color: #b0beb0c5 ;
+    height: 320px;
+    overflow: scroll;
+    display: flex;
+}
+footer{
+    background-color: #29434E;
+    color: white;
+}
+h3{
+    background-color: #546E7A;
+    color: white;
+    margin: 0;
+}
+h4{
+    text-align: center;
+    margin: 0;
+}
+.php{
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+}
