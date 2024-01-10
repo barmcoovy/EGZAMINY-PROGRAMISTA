@@ -5,8 +5,8 @@ Obecnie skupiam się głównie na INF.03, ale w przyszłości zamierzam równie�
 
 ## INF.03 - Arkusze egzaminacyjne
 
-1. [Stronka z arkuszami INF.03](https://egzamin-programista.pl/arkusze-praktyczne-inf03-programowanie-bazy-danych/)
+[Stronka z arkuszami INF.03](https://egzamin-programista.pl/arkusze-praktyczne-inf03-programowanie-bazy-danych/)
 
-2.[Stronka z arkuszami INF.04](https://egzamin-programista.pl/arkusze-praktyczne-inf04-projektowanie-programowanie-testowanie-aplikacji/)
+[Stronka z arkuszami INF.04](https://egzamin-programista.pl/arkusze-praktyczne-inf04-projektowanie-programowanie-testowanie-aplikacji/)
 
 Powodzenia na egzaminie bratku! 🚀
