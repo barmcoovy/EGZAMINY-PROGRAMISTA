@@ -1,0 +1,58 @@
+* {
+    margin: 0 auto;
+    font-family: Garamond;
+}
+
+#lewo {
+    height: 500px;
+    width: 25%;
+    background-color: lavender;
+    float: left;
+}
+
+#lewo-2 {
+    height: 300px;
+    width: 25%;
+    background-color: lavender;
+    float: left;
+}
+
+#prawo {
+    height: 150px;
+    width: 75%;
+    background-color: indigo;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    float: right;
+}
+
+#prawo-2 {
+    height: 650px;
+    width: 75%;
+    background-color: lavender;
+    font-size: 200%;
+    text-align: center;
+   float: right;
+}
+
+footer {
+    background-color: indigo;
+    color: white;
+    text-align: right;
+    clear: both;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    padding: 5px;
+    margin: 10px;
+}
+
+img:hover {
+    padding: 4px;
+    border: 1px solid indigo;
+}
