@@ -1,0 +1,49 @@
+body{
+    font-family: Garamond;
+    margin: 0;
+}
+header{
+    display: flex;
+}
+#baner1{
+    background-color: #00600F;
+    color: white;
+    text-align: center;
+    width: 75%;
+    height: 90px;
+}
+#baner2{
+    background-color: #00600F;
+    color: white;
+    width: 25%;
+    height: 90px;
+}
+main{
+    background-color: #C8E6C9;
+    height: 600px;
+    overflow: scroll;
+}
+footer{
+    background-color: #00600F;
+    color: white;
+}
+h5{
+    background-color: #00600F;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    margin: 0px;
+}
+h2{
+    text-align: right;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+#skrypt{
+    margin: 10px;
+    border: 1px solid #00600F;
+    width: 300px;
+    
+}
