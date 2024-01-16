@@ -1,0 +1,45 @@
+header{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+#informacja{
+    color: white;
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius:10px ;
+}
+#informacja:hover{
+    border: white solid 1px;
+}
+main{
+    background-color: whitesmoke;
+    height: 50px;
+}
+#lewy{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+    float: left;
+}
+#prawy{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: right;
+}
+body{
+    font-family: Tahoma, sans-serif;
+    background-color: crimson;
+}
+h2{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
+#mecze{
+    display: flex;
+}
